@@ -113,3 +113,13 @@ export const education = [
   },
 ];
 
+export const projects = [
+  {
+    id: 0,
+    img: "https://i.pinimg.com/736x/47/0d/63/470d6319b7e082b743eebb72679dd576.jpg",
+    school: "Dr.D.Y.Patil College of Engineering, Pune",
+    date: "July 2017 - April 2021",
+    grade: "8.19 CGPA",
+    degree: "Bachelor of Engineering (Electronics and Telecommunications)",
+  },
+];
